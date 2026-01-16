@@ -1,0 +1,8 @@
+chromadb
+gradio
+markdown
+google-generativeai
+sentence_transformers
+fastapi
+uvicorn[standard]
+pydantic
